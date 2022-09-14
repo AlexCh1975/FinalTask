@@ -22,5 +22,5 @@
 
 ### Скрин работы программы
 
-![](../FinalTask/task_001/scan_001.PNG)
-[пример решения](../FinalTask/task_001/scan_001.PNG)
+![](task_001/scan_001.PNG)
+[пример решения](task_001/scan_001.PNG)
